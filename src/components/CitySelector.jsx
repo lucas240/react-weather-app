@@ -28,7 +28,6 @@ const CitySelector = () => {
                 <Col xs={4} className="text-center">
                     <Col sm={{ size: 10, offset: 1 }}>
                         <Input 
-                        required
                             name="search" 
                             id="search" 
                             placeholder="Enter city" 
